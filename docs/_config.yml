@@ -1,0 +1,8 @@
+title: daimon.tools
+description: ダイモンツールズ
+baseurl: ""
+url: "https://daimon.tools"
+
+# ビルド設定
+markdown: kramdown
+theme: minima
